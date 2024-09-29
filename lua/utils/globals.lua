@@ -1,4 +1,3 @@
-
 Lsps = {
   "lua_ls",
   "bashls",
@@ -6,7 +5,7 @@ Lsps = {
   "dockerls",
   "gopls",
   "html",
-  "tsserver",
+  "ts_ls",
   "jsonls",
   "ast_grep",
   "grammarly",
@@ -15,3 +14,4 @@ Lsps = {
 }
 
 Languages = {"lua", "vim", "javascript", "html", "csv", "gitcommit", "git_rebase", "gitignore", "go", "json", "make", "nginx", "python", "regex", "typescript", "yaml"}
+
