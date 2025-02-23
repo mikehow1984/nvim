@@ -9,7 +9,7 @@ Lsps = {
   "jsonls",
   "ast_grep",
   "grammarly",
-  "ruby_lsp",
+  "solargraph",
   "yamlls",
 }
 
