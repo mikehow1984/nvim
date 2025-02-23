@@ -6,6 +6,6 @@ return {
     "nvim-telescope/telescope.nvim", -- optional
   },
   config = true,
-  enabled = false,
+  enabled = true,
 }
 
